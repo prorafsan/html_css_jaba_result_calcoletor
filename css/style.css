@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.backGround {
+    background-color: #f3f3f3;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.midleBackground {
+    background-color: #2abef9;
+    height: 600px;
+    width: 1000px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 25px;
+    overflow: hidden;
+
+}
+
+.laftTest {
+    margin-top: 165px;
+    margin-left: 70px;
+    color: aliceblue;
+    float: left;
+    width: 100px;
+
+}
+
+h1 {
+    font-family: 'Goldman', cursive;
+    font-size: 40px;
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 28px;
+}
+
+.rightContent {
+    float: right;
+    width: 700px;
+    margin-top: 30px;
+}
+
+input {
+    padding: 15px;
+    margin-top: 55px;
+    width: 400px;
+    background-color: aliceblue;
+    border-radius: 7px;
+    font: bold 17px "Arial";
+    float: right;
+    border: none;
+    margin-right: 50px;
+
+}
+
+input value {
+    border: none;
+}
+
+spen {
+    text-transform: uppercase;
+    font: bold 20px "Arial";
+    color: aliceblue;
+    margin-right: 50px;
+    background-color: orangered;
+}
+
+.line {
+    background-color: black;
+    width: 5px;
+    height: 200px;
+    display: inline-block;
+    margin-top: 165px;
+    margin-left: -135px;
+}
+
+#lasrcontent {
+    height: 75px;
+    margin-top: 180px;
+    color: aliceblue;
+    display: block;
+    font: bold 15px "Arial";
+    text-align: center;
+}
+
+button {
+    width: 350px;
+    padding: 15px;
+    float: left;
+    margin-top: 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: red;
+    box-shadow: 1px 1px 1px 1px;
+
+}
